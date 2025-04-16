@@ -1,0 +1,40 @@
+{
+  "payload": {
+    "name": "1050080275@sv.hcmunre.edu.vn",
+    "email": "1050080275@sv.hcmunre.edu.vn",
+    "licenses": [
+      {
+        "id": "96-C6A1-D8AC-46",
+        "owner": "1050080275@sv.hcmunre.edu.vn",
+        "product_id": "IDAFREE",
+        "edition_id": "ida-free",
+        "description": "IDA Free PC",
+        "start_date": "2025-04-16",
+        "end_date": "2026-04-16",
+        "issued_on": "2025-04-16 05:52:10",
+        "license_type": "named",
+        "seats": 1,
+        "add_ons": [
+          {
+            "id": "97-84D9-5BC7-EB",
+            "code": "HEXCX64",
+            "owner": "96-C6A1-D8AC-46",
+            "start_date": "2025-04-16",
+            "end_date": "2026-04-16"
+          },
+          {
+            "id": "97-7902-DADC-B0",
+            "code": "HEXCX86",
+            "owner": "96-C6A1-D8AC-46",
+            "start_date": "2025-04-16",
+            "end_date": "2026-04-16"
+          }
+        ]
+      }
+    ]
+  },
+  "header": {
+    "version": 1
+  },
+  "signature": "34879164507B09031FF71A01DB0B304C0BFDB20370752404CCE7FE98EE57494565E5192D0B6271D22762E57B8F980A968EE59BBE1A070429D6D4B0A4CF8D0DF508D110AA5C0E6D6F013AD20DDAE17AEC590DAE628CAC9651C036D063FD75F011BC1EA8F432735F7C7A1E7820012A193AC5859632739A70C2BD6744C1F8DD4B7A"
+}
